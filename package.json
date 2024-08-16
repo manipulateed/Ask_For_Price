@@ -10,14 +10,11 @@
   },
   "dependencies": {
     "vue": "^3.2.47",
-    "vue-router": "^4.3.0",
-    "csstype": "^3.1.2"
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
     "vite": "^5.2.6",
-    "@vitejs/plugin-vue": "^5.0.4",
-    "typescript": "^5.5.4",
-    "vue-tsc": "^2.0.7"
+    "@vitejs/plugin-vue": "^5.0.4"
   },
   "main": "index.js",
   "author": "",
